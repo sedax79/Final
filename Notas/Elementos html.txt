@@ -1,0 +1,65 @@
+FIJAS
+Direccion:
+	Completo: 		"/html/body/div[1]/div/main/div[2]/div[2]/div[1]/div/div[1]/div[2]/h1"
+	Calle y colonia: 	"/html/body/div[1]/div/main/div[2]/div[2]/div[1]/div/div[1]/div[2]/h1/em"
+	CP: 			"/html/body/div[1]/div/main/div[2]/div[2]/div[1]/div/div[1]/div[2]/h1/span"		
+	
+Tipo: 				"/html/body/div[1]/div/main/div[2]/div[2]/div[1]/div/div[1]/div[2]/h2"
+Delegacion: 			"/html/body/div[1]/div/main/div[2]/div[2]/div[1]/div/div[1]/div[2]/h3[1]/span[2]"
+Ciudad:	    			"/html/body/div[1]/div/main/div[2]/div[2]/div[1]/div/div[1]/div[2]/h3[1]/span[3]"
+Lat y lon:        		
+	Todo			/html/body/div[1]/div/main/div[2]/span
+				"/html/body/div[1]/div/main/div[2]/span"
+	Lat:			"/html/body/div[1]/div/main/div[2]/span/meta[1]"
+				/html/body/div[1]/div/main/div[2]/span/meta[1]
+	Lon:			"/html/body/div[1]/div/main/div[2]/span/meta[2]"
+				.sc-6003dc3a-2 > span:nth-child(2)
+				.sc-6003dc3a-2 > span:nth-child(2) > meta:nth-child(1)
+				html.__variable_371575 body div#__next div.sc-8b32b841-2.dwUkiE main.sc-feda088d-0.hFCwdE div.sc-6003dc3a-2.dpyyNR span meta
+				<meta itemprop="latitude" content="19.3418937"><meta itemprop="longitude" content="-99.2245237">
+				<span itemprop="geo" itemscope="" itemtype="https://schema.org/GeoCoordinates"><meta itemprop="latitude" content="19.3418937"><meta itemprop="longitude" content="-99.2245237"></span>
+				<meta itemprop="latitude" content="19.3418937"><meta itemprop="longitude" content="-99.2245237">
+
+Precio:				"/html/body/div[1]/div/main/div[2]/div[2]/div[1]/div/div[2]/h2"
+				
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[i]/div/div"
+Descripcion:			"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[1]/div/div/p"
+	
+ID				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[2]/div/div/div[1]/div[2]/div[2]"
+	
+VARIABLES			"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[i]/div/div"
+Caracteristicas:		"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[2]/div/div/div[1]/div[2]"
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[2]/div/div/div[i]/div[2]/div[2]"
+
+	Edad			"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[2]/div/div/div[3]/div[2]/div[2]"
+	Area terreno		"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[2]/div/div/div[4]/div[2]/div[2]"
+	Area construida		"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[2]/div/div/div[5]/div[2]/div[2]"
+	Recamaras
+	Baños
+	Estacionamiento
+	Pisos
+	Jardin
+	Num Casas
+	Num Departamentos
+	...
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[i]/div/div"
+Amenidades y servicios		"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[3]/div/div"
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[3]/div/div/div[i]"
+
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[3]/div/div/div[2]"
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[3]/div/div/div[3]"
+				
+Precio promedio por colonia	"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[i]/div/div"
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[4]/div/div"
+	Colonia:		"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[4]/div/div/div[1]
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[4]/div/div/div[1]/h3
+	
+	Precio			"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[4]/div/div/div[1]/div"
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[1]/div[4]/div/div/div[1]/div/div"
+
+Informacion del anunciante**	"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[2]"
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[2]/div/div/div/div/div/div/div"
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[2]/div/div/div/div/div/div/div/span[1]"
+				"/html/body/div[1]/div/main/div[2]/div[2]/div[3]/div[1]/section[2]/div/div/div/div/div/div/div/span[2]"
+
+

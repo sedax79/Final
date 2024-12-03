@@ -1,0 +1,52 @@
+https://propiedades.com/
+
+
+primero probar abrir paginas
+luego probar guardar pagina solo una
+luego guardar todas las paginas abiertas
+asegurarse de que esas tengan informacion util
+probar como cambiar de pagina
+probar hacer ciclo de todo el proceso
+
+Ruta:
+Ir a pagina propiedades.com
+	Dar clic en boton de ciudad de mexico, esta mas abajo
+		Luego dar clic en menu venta y renta
+			seleccionar venta
+				Ordenar por fecha de actualizacion
+
+
+					
+					Dar clic en publicacion
+						Exlcuir a propiedades con valor menor a 600,800 mil pesos
+						Cambiar de pestaña
+							Extraer informarcion (guardar html): Tipo (Departamento, casa) / Direccion del titulo / precio / (dar clic en mostrar mas)descripcion completa (puede existir información relevante (precio, caracteristicas, )) / caracteristicas principales del departamento : (ID/RECAMARAS/BAÑOS/ESTACIONAMIENTOS/PISOS/EDAD DEL INMUEBLE/AREA CONSTRUIDA Y NUMERO DE DEPARTAMENTOS) / Amenidades y servicios / informacion de la zona : "TALAA" (precio por m2 promedio en zona "ataha")					regresar a pagina
+							Seleccionar ver ubicación
+								Guardar mapa (informacion sobre latitud y longitud (html))
+							Cerrar mapa
+						Regresar a pestaña
+					Cerrar pagina anterior
+					Dar clic en sig publicacion...
+					...		
+
+
+					Dar clic en la siguiente publicacion
+						Cambiar de pagina
+							Extraer informarcion:"" 
+					Regresar a pagina
+					cerrar pagina anterior
+					...
+
+
+
+
+Notas apuntes:
+
+usar xpath para inspeccionar elemento. estan agrupados por jerarquias, para verificar el elemento se puede escribir el xpath completo
+poniendo $x('xpath')
+
+
+
+
+
+
